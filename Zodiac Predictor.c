@@ -1,6 +1,6 @@
 /*WELCOME TO ZODIAC PREDICTOR 
 THIS MINI PROJECT IS CREATED FOR ENTERTAINMENT PURPOSE ONLY
-WE HAVE USED IF-ELSE LOOP IN THIS CODE
+WE HAVE USED IF-ELSE STATEMENT IN THIS CODE
 SUBJECT: PPS (PROGRAMMING FOR PROBLEM SOLVING)
 PROJECT CREATORS: ANNARHYSA ALBERT (RA2111047010144) & MRUNMAYEE RAVINDRA DATAR (RA2111047010173)
 BTECH - AI C*/
@@ -245,7 +245,7 @@ printf("************************************************************************
 printf("                                                         INVALID INPUT\n");}
  
 printf("______________________________________________________________________________________________________________________________\n");
-printf("                                                THANK YOU FOR USING ZODIAC PREDICTOR\n");
+printf("                                              THANK YOU FOR USING OUR ZODIAC PREDICTOR\n");
 
 return 0;
 }
